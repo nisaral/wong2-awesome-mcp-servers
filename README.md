@@ -552,6 +552,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[DIO](https://github.com/nisaral/DIO)** - Drop-in OpenAI- and Ollama-compatible LLM gateway that learns each backend's latency online, routes vLLM / SGLang / TGI / llama.cpp / Ollama with SLO-aware admission, and ships MCP tools to list models, predict per-engine latency, pick a backend and read cluster status.
 
 ## Clients
 
